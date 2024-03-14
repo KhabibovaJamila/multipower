@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\fitness_center\fitness_center\bin\Debug\fitness_center.exe.config
+C:\Users\user\source\repos\fitness_center\fitness_center\bin\Debug\fitness_center.exe
+C:\Users\user\source\repos\fitness_center\fitness_center\bin\Debug\fitness_center.pdb
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.Properties.Resources.resources
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.csproj.GenerateResource.cache
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.exe
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.pdb
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.Form1.resources
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.Admin.resources

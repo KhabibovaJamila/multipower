@@ -63,6 +63,16 @@ namespace fitness_center.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap outerspace_15 {
+            get {
+                object obj = ResourceManager.GetObject("outerspace-15", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap prof_5 {
             get {
                 object obj = ResourceManager.GetObject("prof_5", resourceCulture);

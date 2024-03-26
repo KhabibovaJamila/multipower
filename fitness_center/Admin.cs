@@ -16,5 +16,16 @@ namespace fitness_center
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Klient AdminForm = new Klient();
+            AdminForm.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

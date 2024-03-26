@@ -10,3 +10,4 @@ C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_cente
 C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.pdb
 C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.Form1.resources
 C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.Admin.resources
+C:\Users\user\source\repos\fitness_center\fitness_center\obj\Debug\fitness_center.Klient.resources

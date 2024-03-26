@@ -27,5 +27,10 @@ namespace fitness_center
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
